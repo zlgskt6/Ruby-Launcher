@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- Ruby Gem facets -->
+        <!-- Center Gem Main Body -->
+        <path
+            android:fillColor="#E0115F"
+            android:pathData="M54,26 L76,44 L54,82 L32,44 Z" />
+        <!-- Top Left Facet -->
+        <path
+            android:fillColor="#FF4F79"
+            android:pathData="M32,44 L54,26 L54,50 Z" />
+        <!-- Top Right Facet -->
+        <path
+            android:fillColor="#FF2A65"
+            android:pathData="M54,26 L76,44 L54,50 Z" />
+        <!-- Bottom Left Facet -->
+        <path
+            android:fillColor="#96002A"
+            android:pathData="M32,44 L54,50 L54,82 Z" />
+        <!-- Bottom Right Facet -->
+        <path
+            android:fillColor="#BA0637"
+            android:pathData="M76,44 L54,50 L54,82 Z" />
+        <!-- Gem Crown / Top cut -->
+        <path
+            android:fillColor="#FFA5BA"
+            android:pathData="M44,30 L64,30 L54,26 Z" />
+        <!-- TV / Media Play Icon in the heart of the ruby -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M50,45 L62,53 L50,61 Z" />
+    </group>
+</vector>

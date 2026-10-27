@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+    <!-- Deep Ruby backdrop -->
+    <path
+        android:pathData="M0,0h320v180h-320z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:angle="315"
+                android:endColor="#0B0205"
+                android:startColor="#2D0612"
+                android:type="linear" />
+        </aapt:attr>
+    </path>
+    <!-- Ambient glow circle -->
+    <path
+        android:fillColor="#1AF43F5E"
+        android:pathData="M160,20 A70,70 0 1 0 160,160 A70,70 0 1 0 160,20 Z" />
+    <!-- Center Ruby Gem -->
+    <path
+        android:fillColor="#E0115F"
+        android:pathData="M160,40 L195,70 L160,130 L125,70 Z" />
+    <path
+        android:fillColor="#FF527B"
+        android:pathData="M125,70 L160,40 L160,80 Z" />
+    <path
+        android:fillColor="#FF2E67"
+        android:pathData="M160,40 L195,70 L160,80 Z" />
+    <path
+        android:fillColor="#930028"
+        android:pathData="M125,70 L160,80 L160,130 Z" />
+    <path
+        android:fillColor="#BD0036"
+        android:pathData="M195,70 L160,80 L160,130 Z" />
+    <!-- Center Play Arrow -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M154,72 L172,83 L154,94 Z" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "Ruby Launcher",
+  "description": "Minimalist Android TV launcher focused on installed streaming apps without ads or distractions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
